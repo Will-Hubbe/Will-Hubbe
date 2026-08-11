@@ -1,16 +1,21 @@
-## Hi there 👋
+# William Hubbe
 
-<!--
-**Will-Hubbe/Will-Hubbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science @ University of Illinois Urbana-Champaign · 3.93 GPA
 
-Here are some ideas to get you started:
+Software engineer interested in backend systems, cloud infrastructure, and applied AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience
+
+* **State Farm** — Software Engineer Intern
+* **The Illini Media Company** — Software Engineer Intern
+* **TechPro** — Software Engineer Intern
+
+## Technical Interests
+
+Backend Systems · Cloud Infrastructure · Distributed Systems · AI/ML
+
+## Technologies
+
+**Languages:** Go · Python · C++ · C# · Java · TypeScript · JavaScript · SQL
+
+**Infrastructure & Frameworks:** AWS · Kubernetes · Terraform · Crossplane · REST APIs · React · Next.js · Angular · PostgreSQL · Docker
