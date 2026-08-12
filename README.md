@@ -1,21 +1,25 @@
 # William Hubbe
 
-Computer Science @ University of Illinois Urbana-Champaign · 3.93 GPA
-
-Software engineer interested in backend systems, cloud infrastructure, and applied AI.
+Hello! My name is Will Hubbe, and I am a rising junior studying Computer Science with a Data Science minor at the University of Illinois Urbana-Champaign. I am super interested in performance optimization, cloud infrastructure, AI/ML, and backend systems so feel free to reach out! Much of my work and personal projects are currently private or still in development and I'd be happy to discuss them.
 
 ## Experience
 
-* **State Farm** — Software Engineer Intern
-* **The Illini Media Company** — Software Engineer Intern
-* **TechPro** — Software Engineer Intern
+- **State Farm** — Software Engineer Intern
+- **The Illini Media Company** — Software Engineer Intern
+- **TechPro** — Software Engineer Intern
 
-## Technical Interests
+## Technical
 
-Backend Systems · Cloud Infrastructure · Distributed Systems · AI/ML
+**Languages & Tools:**  
+C++, Python (Pandas, NumPy, Matplotlib), Go, Java, C#, TypeScript, JavaScript, SQL, Git, Linux, Docker
 
-## Technologies
+**Frameworks & Infrastructure:**  
+AWS (Bedrock, OpenSearch Serverless, DynamoDB), REST APIs, CI/CD, Terraform, Crossplane, Kubernetes, React, Next.js, Angular, FastAPI, TensorFlow, Keras
 
-**Languages:** Go · Python · C++ · C# · Java · TypeScript · JavaScript · SQL
+## Coursework
 
-**Infrastructure & Frameworks:** AWS · Kubernetes · Terraform · Crossplane · REST APIs · React · Next.js · Angular · PostgreSQL · Docker
+Algorithms & Models of Computation · Data Structures · System Programming · Artificial Intelligence · Applied Machine Learning · System Design · Computer Architecture · Databases · Linear Algebra · High Frequency Trading Tech
+
+## Interests
+
+Golf · Trading · Planting Flowers · Disc Golf · Poker · Lifting · Cooking · Hanging Out with Friends
