@@ -23,3 +23,7 @@ Algorithms & Models of Computation · Data Structures · System Programming · A
 ## Interests
 
 Golf · Trading · Planting Flowers · Disc Golf · Poker · Lifting · Cooking · Hanging Out with Friends
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/william-hubbe) · [Email](mailto:whubbe2@illinois.edu)
