@@ -16,6 +16,8 @@ C++, Python (Pandas, NumPy, Matplotlib), Go, Java, C#, TypeScript, JavaScript, S
 **Frameworks & Infrastructure:**  
 AWS (Bedrock, OpenSearch Serverless, DynamoDB), REST APIs, CI/CD, Terraform, Crossplane, Kubernetes, React, Next.js, Angular, FastAPI, TensorFlow, Keras
 
+Feel free to check out one of my projects that won a track at HackIllinois 2026! https://brightbet.tech/
+
 ## Coursework
 
 Algorithms & Models of Computation · Data Structures · System Programming · Artificial Intelligence · Applied Machine Learning · System Design · Computer Architecture · Databases · Linear Algebra · High Frequency Trading Tech
