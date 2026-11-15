@@ -1,6 +1,6 @@
 # William Hubbe
 
-Hello! My name is Will Hubbe, and I am a rising junior studying Computer Science with a Data Science minor at the University of Illinois Urbana-Champaign. I am super interested in performance optimization, cloud infrastructure, AI/ML, and backend systems so feel free to reach out! Much of my work and personal projects are currently private or still in development and I'd be happy to discuss them.
+Hello! My name is Will Hubbe, and I am a junior studying Computer Science with a Data Science minor at the University of Illinois Urbana-Champaign. I am super interested in performance optimization, cloud infrastructure, AI/ML, and backend systems so feel free to reach out! Much of my work and personal projects are currently private or still in devlopment and I'd be happy to discuss them.
 
 ## Experience
 
